@@ -1,0 +1,1 @@
+Projeto simples de calculadora em python, apenas usado para o projeto de Git.Projeto simples de boletim em python, com uma calculadora usada como Main no boletim, apenas usado para o projeto de Git.
